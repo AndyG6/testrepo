@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "feather",
+			"path": "../../../feather"
+		},
+		{
+			"name": "prism",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
